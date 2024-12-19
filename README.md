@@ -10,5 +10,8 @@
 - pip install googletrans==4.0.0rc1
 - conda install ffmpeg==6.1.0
 
+  
 
+### 聯絡方式：
+- **Email 連結**：john608440227@gmail.com
 
